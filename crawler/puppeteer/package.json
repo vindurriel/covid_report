@@ -1,0 +1,9 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "main": "list.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^15.5.0"
+  }
+}
